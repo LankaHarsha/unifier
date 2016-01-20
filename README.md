@@ -1,2 +1,2 @@
 # unifier
-Removes Duplicate elements/Characters in String, Object, Array 
+Removes Duplicate elements/Characters in String, Array 
