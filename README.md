@@ -12,5 +12,9 @@ npm install unifier
 No dependencies required.
 
 ##Usage
+
+```js
+
 var _unify = require('unifier');
 var result = _unify.removeDuplicates([1,2,1,1,3,3]); 
+```
