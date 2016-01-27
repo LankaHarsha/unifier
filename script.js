@@ -4,7 +4,7 @@ module.exports = function() {
 
 	}
 
-	Unifier.prototype.RemoveDuplicates = function(obj) {
+	Unifier.prototype.removeDuplicates = function(obj) {
 		
 		if(Object.prototype.toString.call(obj) === '[object Array]'){
 

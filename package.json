@@ -1,6 +1,6 @@
 {
   "name": "unifier",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Removes duplicate elements/characters from string , array",
   "main": "script.js",
   "scripts": {
